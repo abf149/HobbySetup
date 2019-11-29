@@ -1,2 +1,2 @@
 # gittrains
-The train program Dad doesn't want you to see.
+The train program Fred doesn't want you to see.
