@@ -1,2 +1,3 @@
-# gittrains
-The train program Fred doesn't want you to see.
+# Readme
+
+* See speech/README.md to get started with speech commands
