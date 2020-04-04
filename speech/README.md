@@ -8,6 +8,7 @@
 6. Clone this project into your local directory by typing
 
 ```git clone https://github.com/abf149/gittrains.git```
+
 7. Type ```dir``` and you should now have a ```gittrains``` directory. 
 8. Type ```cd gittrains/speech``` to change into the speech commands directory.
 9. Type ```explorer .``` to open this directory in Windows Explorer
