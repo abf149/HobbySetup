@@ -23,6 +23,6 @@
 
 **Monitoring output in Google Chrome**
 
-1. In the top-right of Google Chrome you should see a vertically-oriented **...** which is the browser menu. Click this menu and choose **More tools > Developer tools**. This will open up the developer tools panel which has a menu along the top for *Elements*, *Console*, *Sources*, ...
+1. In the top-right of Google Chrome you should see a vertically-oriented ```...``` which is the browser menu. Click this menu and choose **More tools > Developer tools**. This will open up the developer tools panel which has a menu along the top for *Elements*, *Console*, *Sources*, ...
 2. In the menu at the top of developer tools, choose *Console*
 3. Continue speaking into the microphone and you should see a running list of your commands
