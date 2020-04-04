@@ -16,7 +16,7 @@
 9. Type ```explorer .``` to open this directory in Windows Explorer
 10. You should see an ```index.html``` file. Point Google Chrome to this file by copying the full directory path from the address bar of Windows Explorer and pasting it into Internet Explorer along with "index.html"
 
-**Run*
+**Run**
 
 1. When ```index.html``` loads in your browser it may ask to use your microphone. Press *accept*
 2. Say *up*, *down*, *left*, *right*, or *clear* and you should see the dot on the screen following your directions.
