@@ -9,10 +9,10 @@
 5. Type ```mkdir codeHome``` to create a directory for your coding projects. Or if you already have a directory for your coding projects, type ```cd *projectsdir*``` where *projectsdir* is your coding projects directory.
 6. Clone this project into your local directory by typing
 
-```git clone git://github.com/abf149/gittrains.git```
+```git clone git://github.com/abf149/HobbySetup.git```
 
-7. Type ```dir``` and you should now have a ```gittrains``` directory. 
-8. Type ```cd gittrains/speech``` to change into the speech commands directory.
+7. Type ```dir``` and you should now have a ```HobbySetup``` directory. 
+8. Type ```cd HobbySetup/speech``` to change into the speech commands directory.
 9. Type ```explorer .``` to open this directory in Windows Explorer
 10. You should see an ```index.html``` file. Point Google Chrome to this file by copying the full directory path from the address bar of Windows Explorer and pasting it into Internet Explorer along with "index.html"
 
